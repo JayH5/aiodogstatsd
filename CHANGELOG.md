@@ -7,6 +7,8 @@
 - Fixed `AIOHTTP` middleware to catch any possible exception, #6
 - Fixed `AIOHTTP` middleware to properly handle variable routes, #8
 
+- Added Python 3.8.* support.
+
 ## 0.7.0 (2019-08-14)
 
 - Fixed `AIOHTTP` graceful shutdown, #5 by @Reskov
